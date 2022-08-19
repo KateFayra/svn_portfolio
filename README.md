@@ -34,6 +34,6 @@ Instructions for configuring the MySQL database can be found in 'SCHEMA/README.t
 - fancybox for displaying images: http://fancybox.net/
 - Modified CSS for displaying comments: http://codepen.io/magnus16/pen/buGiB
 
-Copyright 2014-2015 Nicholas Lochner
+Copyright 2014-2015 Nikki Lochner
 
 Licensed under the GNU GPL v3: http://www.gnu.org/copyleft/gpl.html 
