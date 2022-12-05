@@ -1,6 +1,6 @@
-A demo is available here: https://njlochner.com (this project is my website).
+A demo is available here: https://nikkifayra.com (this project is my website).
 
-You can see the source browser by viewing my repository for my CSAir project (https://njlochner.com/projects/CSAir/CSAir.py.html), or my Java Chess project (https://njlochner.com/projects/Java_Chess/Chess.iml.html). Comments are not currently enabled.
+You can see the source browser by viewing my repository for my CSAir project (https://nikkifayra.com/projects/CSAir/CSAir.py.html), or my Java Chess project (https://nikkifayra.com/projects/Java_Chess/Chess.iml.html). Comments are not currently enabled.
 
 # Subversion Portfolio
 
@@ -34,6 +34,6 @@ Instructions for configuring the MySQL database can be found in 'SCHEMA/README.t
 - fancybox for displaying images: http://fancybox.net/
 - Modified CSS for displaying comments: http://codepen.io/magnus16/pen/buGiB
 
-Copyright 2014-2015 Nikki Lochner
+Copyright 2014-2015 Nikki Fayra
 
 Licensed under the GNU GPL v3: http://www.gnu.org/copyleft/gpl.html 
